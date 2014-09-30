@@ -1,0 +1,34 @@
+
+/*body{font-family:'Roboto Slab', georgia, serif;font-style:normal;font-weight:300;font-size:18px;font-size:1.125rem;line-height:1.4;margin:0 auto;max-width:550px;width:100%}*/
+
+body{
+    font-family: 'Averia Serif Libre', cursive;
+    margin:0 auto;max-width:550px;width:100%
+}
+
+
+blockquote {
+    font-family: 'Racing Sans One';
+}
+
+h2,h3, h4, h5, h6 {font-family:'Roboto Slab', helvetica, verdana, sans-serif;font-style:oblique;font-weight:700;line-height:1}
+
+h1{color:#c45353; text-transform:capitalize;    font-style: italic;font-size:100px} 
+
+
+ul li{display:inline-block;margin:0 6xp}
+
+
+img{height:auto;width:500px}
+
+/*div{color:#c45353;font-size:50px;font-size:3.125rem;font-family:'Roboto Slab', georgia, serif;font-style:normal;font-weight:700;margin:30px 0;line-height:1}*/
+
+footer[role="complementary"]{border-bottom:1px #989898 silid;border-top:1px #989898 solid;color:#989898;margin:40px 0;padding:10px 0}
+
+
+p{  font-family: 'Yanone Kaffeesatz';
+    font-size:18px;font-size:1.125rem}
+
+
+
+small{border-top:1px #989898 solid;font-size:14px;font-size:0.875rem;padding-bottom:20px}
